@@ -6,9 +6,11 @@
         "sirname":"bogdan",
         "photo_url:"https://trashbox.ru/ifiles/1338636_9f12b1_screenshot_05.png_min/vlad-a4-wallpapers-android-9.jpg",
         "balance": 20000
-
+        
 
 
     }
     ]
-
+    "products":[{
+        "bananas", "oranges", "graps", "apples"
+    }]
